@@ -9,9 +9,7 @@ module.exports = {
         siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
         social: {
           twitter: `licanhua`,
-        },
-        showThemeLogo: true,
-        formspreeEndpoint:"https://formspree.io/f/{your-id}",
+        }
       },
     plugins: [
       {
@@ -20,7 +18,7 @@ module.exports = {
             theme: "blue",
             basePath: "/",
             contentPath: "content/profile",
-            showThemeLogo: true,
+            showThemeLogo: false,
             formspreeEndpoint:"https://formspree.io/f/{your-id}"
         },
       },
