@@ -1,7 +1,7 @@
 ---
 title: Setup my blog website with Gatsby and deploy the website to GitHub Pages
 date: "2021-11-30T23:12:03.284Z"
-description: "Deplay Gatsby to GitHub Pages"
+description: "This is about how to deploy Gatsby to GitHub Pages. As a developer, I want to host my own blogs. Since my code is in GitHub, I would like to hosting my blog on GitHub pages too."
 tags: ["Gatsby", "Blog", "GitHub Pages"]
 
 ---
