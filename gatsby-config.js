@@ -1,4 +1,5 @@
 module.exports = {
+    pathPrefix: `/profile`,
     siteMetadata: {
         title: `Canhua's Blog`,
         author: {
@@ -6,7 +7,7 @@ module.exports = {
           summary: `who lives and works in Seattle building useful things.`,
         },
         description: `A starter blog demonstrating what Gatsby can do.`,
-        siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+        siteUrl: `https://licanhua.github.io/profile`,
         social: {
           twitter: `licanhua`,
         }
