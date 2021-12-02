@@ -12,7 +12,7 @@
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
-   },
+  },
   "keywords": [],
   "homepage": "https://licanhua.github.io/profile",
   "author": "",
@@ -20,6 +20,7 @@
   "dependencies": {
     "@wkocjan/gatsby-theme-intro": "^2.0.1",
     "gatsby": "^3.14.6",
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }
