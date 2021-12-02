@@ -131,7 +131,7 @@ module.exports = {
     {
       resolve: "@wkocjan/gatsby-theme-intro",
       options: {
-        theme: "classic",
+        theme: "blue",
         basePath: "/profile",
         contentPath: "content/profile"
       },
