@@ -20,8 +20,18 @@ const Nav = ({ pageTitle, children }) => {
             </a>
           </li>
           <li className={navLinkItem}>
+            <Link to="https://licanhua.github.io/github-projects/docs" className={navLinkText}>
+              My GitHub Projects
+            </Link>
+          </li>
+          <li className={navLinkItem}>
             <Link to="/" className={navLinkText}>
               Profile
+            </Link>
+          </li>
+          <li className={navLinkItem}>
+            <Link to="https://www.linkedin.com/in/licanhua/" className={navLinkText}>
+              Linkedin
             </Link>
           </li>
         </ul>
